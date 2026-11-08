@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+.env
+*.db
+*.sqlite
+*.sqlite3
+*.log
+browser_profile/
+nodriver_profile/
+real_chrome_data/
+memory/
+piper_voices/
+checkpoints/
